@@ -102,10 +102,10 @@ body {
     margin-bottom: 12px;
 }
 
-.news-text {
-    line-height: 1.6;
-    margin: 0;
-}
+/*.news-text {*/
+/*    line-height: 1.6;*/
+/*    margin: 0;*/
+/*}*/
 
 .site-footer {
     background: var(--navy);
